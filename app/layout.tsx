@@ -6,7 +6,7 @@ import { NextAuthProvider } from './components/NextAuthProvider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Netflix|clone',
+  title: 'Samba|Netflix|clone',
   description: 'Réaliser par Gandega Samba',
 }
 
